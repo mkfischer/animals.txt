@@ -20,14 +20,14 @@ Albatross
 Aldabra Giant Tortoise
 Alligator
 Alpine Dachsbracke
-American Bulldog
-American Cocker Spaniel
-American Coonhound
-American Eskimo Dog
-American Foxhound
-American Pit Bull Terrier
-American Staffordshire Terrier
-American Water Spaniel
+Bulldog
+Cocker Spaniel
+Coonhound
+Eskimo Dog
+Foxhound
+Pit Bull Terrier
+Staffordshire Terrier
+Water Spaniel
 Anatolian Shepherd Dog
 Angelfish
 Ant
@@ -352,7 +352,6 @@ Llama
 Lobster
 Long-Eared Owl
 Lynx
-
 Macaroni Penguin
 Macaw
 Magellanic Penguin
